@@ -1,1 +1,1 @@
-# git_test
+This is Michaels first git project!
